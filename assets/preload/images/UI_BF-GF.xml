@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="UI_BF-GF.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF_GF_Float0000" x="10" y="10" width="1282" height="401" pivotX="2.7" pivotY="0.05"/>
+	<SubTexture name="BF_GF_Float0001" x="1302" y="10" width="1282" height="401"/>
+	<SubTexture name="BF_GF_Float0002" x="2594" y="10" width="1282" height="401"/>
+	<SubTexture name="BF_GF_Float0003" x="3886" y="10" width="1282" height="401"/>
+	<SubTexture name="BF_GF_Float0004" x="5178" y="10" width="1282" height="401"/>
+	<SubTexture name="BF_GF_Float0005" x="6470" y="10" width="1282" height="401"/>
+	<SubTexture name="BF_GF_Float0006" x="10" y="421" width="1282" height="401"/>
+	<SubTexture name="BF_GF_Float0007" x="1302" y="421" width="1282" height="401"/>
+	<SubTexture name="BF_GF_Float0008" x="2594" y="421" width="1282" height="401"/>
+	<SubTexture name="BF_GF_Float0009" x="3886" y="421" width="1282" height="401"/>
+	<SubTexture name="BF_GF_Float0010" x="2594" y="421" width="1282" height="401"/>
+	<SubTexture name="BF_GF_Float0011" x="5178" y="421" width="1282" height="401"/>
+	<SubTexture name="BF_GF_Float0012" x="6470" y="421" width="1282" height="401"/>
+	<SubTexture name="BF_GF_Float0013" x="10" y="832" width="1282" height="401"/>
+	<SubTexture name="BF_GF_Float0014" x="1302" y="832" width="1282" height="401"/>
+	<SubTexture name="BF_GF_Float0015" x="2594" y="832" width="1282" height="401"/>
+	<SubTexture name="BF_GF_Float0016" x="3886" y="832" width="1282" height="401"/>
+	<SubTexture name="BF_GF_Float0017" x="5178" y="832" width="1282" height="401"/>
+	<SubTexture name="BF_GF_Float0018" x="6470" y="832" width="1282" height="401"/>
+	<SubTexture name="BF_GF_SuckedIN0000" x="10" y="1243" width="1282" height="401" pivotX="2.7" pivotY="0.05"/>
+	<SubTexture name="BF_GF_SuckedIN0001" x="1302" y="1243" width="1282" height="401"/>
+	<SubTexture name="BF_GF_SuckedIN0002" x="2594" y="1243" width="1282" height="401"/>
+	<SubTexture name="BF_GF_SuckedIN0003" x="3886" y="1243" width="1282" height="401"/>
+	<SubTexture name="BF_GF_SuckedIN0004" x="5178" y="1243" width="1282" height="401"/>
+	<SubTexture name="BF_GF_SuckedIN0005" x="6470" y="1243" width="1282" height="401"/>
+	<SubTexture name="BF_GF_SuckedIN0006" x="10" y="1654" width="1282" height="401"/>
+	<SubTexture name="BF_GF_SuckedIN0007" x="1302" y="1654" width="1282" height="401"/>
+	<SubTexture name="BF_GF_SuckedIN0008" x="2594" y="1654" width="1282" height="401"/>
+	<SubTexture name="BF_GF_SuckedIN0009" x="3886" y="1654" width="1282" height="401"/>
+	<SubTexture name="BF_GF_SuckedIN0010" x="5178" y="1654" width="1282" height="401"/>
+	<SubTexture name="BF_GF_SuckedIN0011" x="6470" y="1654" width="1282" height="401"/>
+	<SubTexture name="BF_GF_SuckedIN0012" x="10" y="2065" width="1282" height="401"/>
+	<SubTexture name="BF_GF_SuckedIN0013" x="1302" y="2065" width="1282" height="401"/>
+	<SubTexture name="BF_GF_SuckedIN0014" x="2594" y="2065" width="1282" height="401"/>
+	<SubTexture name="BF_GF_SuckedIN0015" x="3886" y="2065" width="1282" height="401"/>
+	<SubTexture name="BF_GF_SuckedIN0016" x="5178" y="2065" width="1282" height="401"/>
+	<SubTexture name="BF_GF_SuckedIN0017" x="6470" y="2065" width="1282" height="401"/>
+	<SubTexture name="BF_GF_SuckedIN0018" x="10" y="2476" width="1282" height="401"/>
+</TextureAtlas>

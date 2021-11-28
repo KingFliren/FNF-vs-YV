@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["yv1", "dorito", [146, 113, 253]],
+		["yv2", "dorito", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+
+	"weekBackground": "stage",
+
+	"storyName": "Dorito",
+	"weekBefore": "tutorial",
+	"weekName": "Week YV",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

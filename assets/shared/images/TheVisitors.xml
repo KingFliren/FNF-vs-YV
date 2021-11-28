@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TheVisitors.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BackgroundChars10000" x="10" y="10" width="2113" height="1175" pivotX="283.85" pivotY="1036.7"/>
+	<SubTexture name="BackgroundChars10001" x="10" y="10" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars10002" x="2133" y="10" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars10003" x="2133" y="10" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars10004" x="2133" y="10" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars10005" x="2133" y="10" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars10006" x="2133" y="10" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars10007" x="2133" y="10" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars10008" x="2133" y="10" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars10009" x="2133" y="10" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars10010" x="2133" y="10" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars10011" x="2133" y="10" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars10012" x="2133" y="10" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars10013" x="2133" y="10" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars10014" x="2133" y="10" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars10015" x="2133" y="10" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars10016" x="2133" y="10" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars10017" x="2133" y="10" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars10018" x="2133" y="10" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars10019" x="2133" y="10" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars10020" x="2133" y="10" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars10021" x="2133" y="10" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars10022" x="2133" y="10" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars10023" x="2133" y="10" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars10024" x="2133" y="10" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars10025" x="2133" y="10" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars10026" x="2133" y="10" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars10027" x="2133" y="10" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars10028" x="2133" y="10" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars10029" x="2133" y="10" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars20000" x="4256" y="10" width="2113" height="1175" pivotX="283.85" pivotY="1036.7"/>
+	<SubTexture name="BackgroundChars20001" x="4256" y="10" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars20002" x="10" y="1195" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars20003" x="10" y="1195" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars20004" x="10" y="1195" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars20005" x="10" y="1195" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars20006" x="10" y="1195" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars20007" x="10" y="1195" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars20008" x="10" y="1195" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars20009" x="10" y="1195" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars20010" x="10" y="1195" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars20011" x="10" y="1195" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars20012" x="10" y="1195" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars20013" x="10" y="1195" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars20014" x="10" y="1195" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars20015" x="10" y="1195" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars20016" x="10" y="1195" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars20017" x="10" y="1195" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars20018" x="10" y="1195" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars20019" x="10" y="1195" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars20020" x="10" y="1195" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars20021" x="10" y="1195" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars20022" x="10" y="1195" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars20023" x="10" y="1195" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars20024" x="10" y="1195" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars20025" x="10" y="1195" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars20026" x="10" y="1195" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars20027" x="10" y="1195" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars20028" x="10" y="1195" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars20029" x="10" y="1195" width="2113" height="1175"/>
+	<SubTexture name="BackgroundChars30000" x="2133" y="1195" width="2376" height="1302" pivotX="443.1" pivotY="1163"/>
+	<SubTexture name="BackgroundChars30001" x="2133" y="1195" width="2376" height="1302"/>
+	<SubTexture name="BackgroundChars30002" x="4519" y="1195" width="2376" height="1302"/>
+	<SubTexture name="BackgroundChars30003" x="4519" y="1195" width="2376" height="1302"/>
+	<SubTexture name="BackgroundChars30004" x="4519" y="1195" width="2376" height="1302"/>
+	<SubTexture name="BackgroundChars30005" x="4519" y="1195" width="2376" height="1302"/>
+	<SubTexture name="BackgroundChars30006" x="4519" y="1195" width="2376" height="1302"/>
+	<SubTexture name="BackgroundChars30007" x="4519" y="1195" width="2376" height="1302"/>
+	<SubTexture name="BackgroundChars30008" x="4519" y="1195" width="2376" height="1302"/>
+	<SubTexture name="BackgroundChars30009" x="4519" y="1195" width="2376" height="1302"/>
+	<SubTexture name="BackgroundChars30010" x="4519" y="1195" width="2376" height="1302"/>
+	<SubTexture name="BackgroundChars30011" x="4519" y="1195" width="2376" height="1302"/>
+	<SubTexture name="BackgroundChars30012" x="4519" y="1195" width="2376" height="1302"/>
+	<SubTexture name="BackgroundChars30013" x="4519" y="1195" width="2376" height="1302"/>
+	<SubTexture name="BackgroundChars30014" x="4519" y="1195" width="2376" height="1302"/>
+	<SubTexture name="BackgroundChars30015" x="4519" y="1195" width="2376" height="1302"/>
+	<SubTexture name="BackgroundChars30016" x="4519" y="1195" width="2376" height="1302"/>
+	<SubTexture name="BackgroundChars30017" x="4519" y="1195" width="2376" height="1302"/>
+	<SubTexture name="BackgroundChars30018" x="4519" y="1195" width="2376" height="1302"/>
+	<SubTexture name="BackgroundChars30019" x="4519" y="1195" width="2376" height="1302"/>
+	<SubTexture name="BackgroundChars30020" x="4519" y="1195" width="2376" height="1302"/>
+	<SubTexture name="BackgroundChars30021" x="4519" y="1195" width="2376" height="1302"/>
+	<SubTexture name="BackgroundChars30022" x="4519" y="1195" width="2376" height="1302"/>
+	<SubTexture name="BackgroundChars30023" x="4519" y="1195" width="2376" height="1302"/>
+	<SubTexture name="BackgroundChars30024" x="4519" y="1195" width="2376" height="1302"/>
+	<SubTexture name="BackgroundChars30025" x="4519" y="1195" width="2376" height="1302"/>
+	<SubTexture name="BackgroundChars30026" x="4519" y="1195" width="2376" height="1302"/>
+	<SubTexture name="BackgroundChars30027" x="4519" y="1195" width="2376" height="1302"/>
+	<SubTexture name="BackgroundChars30028" x="4519" y="1195" width="2376" height="1302"/>
+	<SubTexture name="BackgroundChars30029" x="4519" y="1195" width="2376" height="1302"/>
+</TextureAtlas>

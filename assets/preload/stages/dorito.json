@@ -1,0 +1,9 @@
+{
+	"directory": "weekyv",
+	"defaultZoom": 0.9,
+	"isPixelStage": false,
+
+	"boyfriend": [1000, 250],
+	"girlfriend": [300, 400],
+	"opponent": [150, 250]
+}
