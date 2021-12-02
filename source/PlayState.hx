@@ -390,7 +390,7 @@ class PlayState extends MusicBeatState
 				fg.updateHitbox();
 				bg.updateHitbox();
 
-				theVisitors = new FlxSprite(-150, -300);
+				theVisitors = new FlxSprite(-150, -315);
 				theVisitors.frames = Paths.getSparrowAtlas('TheVisitors');
 				theVisitors.updateHitbox();
 				theVisitors.animation.addByPrefix("beat1", "BackgroundChars1", 30, false);
